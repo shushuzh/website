@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,65 +24,65 @@ role: Ph.D student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Statistics, University of Michigan -- Ann Arbor
+  - name: Department of Statistics, University of Michigan
     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'shushuz@umich.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/shushuzh
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/shushu-zhang-68b2a7193/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Expected Shortfall Regression
+  - 
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics
+    institution: University of Michigan -- Ann Arbor
+    date_start: 2021-08
+    date_end: 2026-04 (expected)
+#    summary: |
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: MS Statistics
+    institution: University of Wisconsin -- Madison
+    date_start: 2019-08
+    date_end: 2021-04
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS Statistics
+    institution: East China Normal University
+    date_start: 2016-09-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.87/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year Ph.D. student from Statistics department at University of Michigan, Ann Arbor. I am very fortunate to be advised by Prof. Xuming He and Prof. Kean Ming Tan. My research interest lies at the intersection of (non-)parametric expected shortfall regression, high-dimensional statistics, and causal inference with application to health disparity research.
