@@ -33,23 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'shushuz@umich.edu'
     label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
-#  - icon: brands/instagram
-#    url: https://www.instagram.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=mKv0PWwAAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/shushuzh
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shushu-zhang-68b2a7193/
-#  - icon: academicons/orcid
-#    url: https://orcid.org/
 
 interests:
   - Expected Shortfall Regression
+  - Health Disparity
   - 
-  - Information Retrieval
 
 education:
   - area: PhD Statistics
