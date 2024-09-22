@@ -55,8 +55,8 @@ interests:
 education:
   - area: PhD Statistics
     institution: University of Michigan -- Ann Arbor
-    date_start: 2021-08
-    date_end: 2026-05 (expected)
+    date_start: 2021-08-01
+    date_end: 2026-05-01 (expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: MS Statistics
     institution: University of Wisconsin -- Madison
-    date_start: 2019-08
-    date_end: 2021-05
+    date_start: 2019-08-01
+    date_end: 2021-05-01
     summary: |
       GPA: 4.0/4.0
 
@@ -75,8 +75,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Statistics
     institution: East China Normal University
-    date_start: 2016-09
-    date_end: 2020-17
+    date_start: 2016-09-01
+    date_end: 2020-07-01
     summary: |
       GPA: 3.87/4.0
       
