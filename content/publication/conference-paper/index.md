@@ -52,6 +52,7 @@ url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/ea05e4fc029
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
