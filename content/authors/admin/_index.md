@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Expected Shortfall Regression
+  - Health Disparity
+  - Causal Inference
+  - Numerical Optimization
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +184,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year Ph.D. student from Statistics department at University of Michigan, Ann Arbor. I am very fortunate to be advised by Prof. Xuming He and Prof. Kean Ming Tan. My research interest lies at the intersection of (non-)parametric expected shortfall regression, high-dimensional statistics, and causal inference with application to health disparity research.
+
