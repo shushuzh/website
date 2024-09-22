@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D student
+role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -56,7 +56,7 @@ education:
   - area: PhD Statistics
     institution: University of Michigan -- Ann Arbor
     date_start: 2021-08-01
-    date_end: 2026-05-01 (expected)
+    date_end: 2026-05-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
